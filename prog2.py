@@ -1,5 +1,15 @@
-print("This is the second python program")
-print("THis is the second change")
-print("sample to push ")
+def sub(value):
+    subval=value%2
+    retun subval
+
+print("Enter the number")
+read val
+
+ret=sub(val)
+if ( ret == 0):
+    print("The value is even")
+else:
+    print("The value is odd")
+
 exit()
 
