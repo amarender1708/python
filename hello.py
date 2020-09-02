@@ -5,7 +5,7 @@ def add(value):
 
 
 print("The total is: " + add(20))
-
+print (add(30))
     
 exit 0
 
