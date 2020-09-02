@@ -12,5 +12,6 @@ else:
     print("The value is odd")
 
 print("THis exited the program")
+print("THis is inside func21")
 exit()
 
