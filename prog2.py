@@ -11,5 +11,6 @@ if ( ret == 0):
 else:
     print("The value is odd")
 
+print("THis exited the program")
 exit()
 
