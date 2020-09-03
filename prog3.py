@@ -5,5 +5,6 @@ def func1 (name):
 func1("Amar")
 func1("Akbar")
 func("Steve")
+func("Steve")
 exit()
 
