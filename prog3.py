@@ -6,5 +6,6 @@ func1("Amar")
 func1("Akbar")
 func("Steve")
 func1("Antony")
+func1("Troy")
 exit()
 
