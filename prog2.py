@@ -14,5 +14,6 @@ else:
 print("THis exited the program")
 print("This is another print")
 print("THis is inside func21")
+This is F1
 exit()
 
