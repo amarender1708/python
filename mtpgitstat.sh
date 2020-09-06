@@ -20,3 +20,4 @@ else
 	echo "THis is not a git directory"
 
 fi
+
