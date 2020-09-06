@@ -5,3 +5,4 @@ if ["$_RC" -eq 0 ]; then
 else
 	eco "SOme files are not commited"
 
+fi
