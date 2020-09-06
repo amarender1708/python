@@ -13,8 +13,6 @@ if [ "$_RC" -eq 0 ]; then
 		echo "There is an issue with the git add"
 
 	fi
-
-	
 else
 	echo "This is not a git directory."
 
