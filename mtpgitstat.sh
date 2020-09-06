@@ -1,3 +1,7 @@
+pushd /c/Amar/Personal/git/demo
 git status; _RC=$? &> /dev/null
-echo ${_RC}
+if ["$_RC" -eq 0 ]; then
+	echo "The directory is clean"
+else
+	eco "SOme files are not commited"
 
