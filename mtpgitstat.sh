@@ -17,7 +17,7 @@ if [ "$_RC" -eq 0 ]; then
 
 	
 else
-	echo "THis is not a git directory."
+	echo "This is not a git directory."
 
 fi
 
