@@ -6,9 +6,9 @@ if [ "$_RC" -eq 0 ]; then
 	if [ "$_RC" -eq 0 ]; then
 		git commit -am "there is an updated code which is commited"; _RC=$?;
 		if [ "$_RC" -eq 0 ]; then
-			echo "Commit successfull"
+			echo "Commit was Successfull"
 		else
-			echo "Commit unsuccesfull"
+			echo "Commit was unsuccesfull"
 		fi
 	else
 		echo "There is an issue with the git add"
