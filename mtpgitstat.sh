@@ -1,2 +1,3 @@
-git status; RC=$? >& /dev/null
+git status; _RC=$? &> /dev/null
+echo ${_RC}
 
