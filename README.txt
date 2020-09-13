@@ -22,3 +22,5 @@ removed the last rebase message
 added another line for conflict
 added a change 1 in master
 add another change 2 in master
+added another change 3 in master
+
