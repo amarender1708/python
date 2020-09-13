@@ -16,4 +16,6 @@ commit f3 new branch
 
 commit f3 new branch
 
-added this for rebase this is master
+removed the last rebase message
+added another line for conflict
+
