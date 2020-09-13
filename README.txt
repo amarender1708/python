@@ -20,5 +20,5 @@ added this for rebase missed to add this at the end
 
 removed the last rebase message
 added another line for conflict
-
+added a change 1 in master
 
