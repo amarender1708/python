@@ -18,4 +18,7 @@ commit f3 new branch
 
 added this for rebase missed to add this at the end
 
-This is done in master
+removed the last rebase message
+added another line for conflict
+
+
