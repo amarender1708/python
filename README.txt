@@ -16,6 +16,6 @@ commit f3 new branch
 
 commit f3 new branch
 
-
 added this for rebase missed to add this at the end
 
+This is done in master
