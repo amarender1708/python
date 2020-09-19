@@ -27,3 +27,7 @@ added another change 3 in master
 added change 4 in master
 
 dded a change in awk
+
+added change 6 for git diff
+
+added another change 7 for git diff
